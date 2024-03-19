@@ -15,7 +15,7 @@
 
 ### Live Demo Link:-
 
-[Live Demo Link]("https://calculator-app-rose-xi.vercel.app/")
+[Live Demo Link](https://calculator-app-rose-xi.vercel.app/)
 
 # React + Vite
 
