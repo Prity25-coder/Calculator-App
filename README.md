@@ -10,9 +10,10 @@
 - Divide
 - Clear
 - Equals
+
 ![image](https://github.com/Prity25-coder/Calculator-App/assets/72591232/5584a45d-8f83-424f-9c59-1457eb8b9024)
 
-### Live Demo Link
+### Live Demo Link:-
 
 [Live Demo Link]("https://calculator-app-rose-xi.vercel.app/")
 
